@@ -10,4 +10,30 @@ Além de:
   * EXPO para o desenvolvimento mobile.
   * SQLite como banco de dados.
   
+  
+# Utilização
+
+Após fazer o download dos arquivos, entre na pasta "Semana-Omnistack-11.0" e use os seguintes comandos nesta ordem:
+
+> cd backend
+
+> npm install
+
+> npm start
+
+> cd ../frontend
+
+> npm install
+
+> npm start
+
+A página com o aplicativo será aberta automaticamente após esse último comando.
+
+
+# Melhorias e desenvolvimentos extras
+
+A aplicação está completa, porém ainda há funcionalidades que podem ser implementadas para deixa-la ainda melhor, e eu estarei desenvolvendo-as nos dias seguintes.
+
+
+
 
