@@ -8,5 +8,6 @@ Além de:
   * JEST para testes unitários e de integração.
   * EXPRESS para gerenciar as requisições HTTP.
   * EXPO para o desenvolvimento mobile.
+  * SQLite como banco de dados.
   
 
