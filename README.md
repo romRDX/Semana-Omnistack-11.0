@@ -14,8 +14,7 @@ Além de:
 # Utilização
 
 Após fazer o download dos arquivos, entre na pasta "Semana-Omnistack-11.0" e use os seguintes comandos nesta ordem:
-
-> cd backend
+`<addr>` cd backend
 
 > npm install
 
