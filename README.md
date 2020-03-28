@@ -29,12 +29,3 @@ Após fazer o download dos arquivos, entre na pasta "Semana-Omnistack-11.0" e us
 A página com o aplicativo será aberta automaticamente após esse último comando.
 
 **Temporário**: É necessário anotar o código gerado após o cadastro da ONG para que seja possível fazer o login
-
-
-# Melhorias e desenvolvimentos extras
-
-A aplicação está completa, porém ainda há funcionalidades que podem ser implementadas para deixa-la ainda melhor, e eu estarei desenvolvendo-as nos dias seguintes.
-
-
-
-
